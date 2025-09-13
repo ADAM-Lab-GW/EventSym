@@ -12,14 +12,36 @@ LOG_FILE = APP_DIR / "review_log.json"  # Log file to store approvals and reject
 
 app = Flask(__name__, static_folder=None)
 
-# Initialize record.json if it doesn't exist
-def initialize_record_file():
+# --- Add this helper (near your other helpers) ---
+def initialize_or_sync_record_file():
+    # Current GIF files on disk
+    all_files = sorted(p.name for p in GIF_DIR.glob("*.gif"))
+
     if not RECORD_FILE.exists():
-        # Get all GIF filenames in the directory
-        all_files = [p.name for p in GIF_DIR.glob("*.gif")]
         record_data = {"remaining": all_files, "verified": []}
-        with open(RECORD_FILE, "w") as f:
-            json.dump(record_data, f, indent=4)
+        save_record_data(record_data)
+        return
+
+    # Load existing and compute new files
+    data = load_record_data()
+    remaining = data.get("remaining", [])
+    verified = data.get("verified", [])
+
+    # verified can be list of dicts like {"filename": "...", "response": "..."}
+    verified_names = {
+        (v.get("filename") if isinstance(v, dict) else v) for v in verified
+    }
+
+    known = set(remaining) | verified_names
+    new_files = [f for f in all_files if f not in known]
+
+    if new_files:
+        # Append new files to remaining (preserve existing order)
+        data["remaining"].extend(new_files)
+        # Deduplicate while keeping order
+        data["remaining"] = list(dict.fromkeys(data["remaining"]))
+        save_record_data(data)
+
 
 # Load the record data
 def load_record_data():
@@ -47,7 +69,7 @@ def log_verified(filename, response):
 
 @app.route("/")
 def index():
-    initialize_record_file()
+    initialize_or_sync_record_file()
     record_data = load_record_data()
     if record_data["remaining"]:
         return redirect(url_for("view_local", filename=record_data["remaining"][0]))
@@ -61,6 +83,7 @@ def serve_gif(filename):
 
 @app.route("/view/local/<filename>")
 def view_local(filename):
+    initialize_or_sync_record_file()
     if not filename.endswith(".gif"):
         abort(404)
     
