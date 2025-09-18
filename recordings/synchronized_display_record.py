@@ -110,6 +110,15 @@ def get_secondary_screen_geometry():
 
 
 def record_event_data(duration_sec, output_file):
+    throw = dv.io.MonoCameraWriter("intermediary.aedat4", capture)
+    start_time = time.time()
+    end_time = start_time + 2
+    
+    while time.time() < end_time and running and capture.isRunning():
+        events = capture.getNextEventBatch()
+        if events is not None:
+            throw.writeEvents(events, streamName='events')
+
     writer = dv.io.MonoCameraWriter(output_file, capture)
     start_time = time.time()
     end_time = start_time + duration_sec
@@ -121,11 +130,7 @@ def record_event_data(duration_sec, output_file):
             writer.writeEvents(events, streamName='events')
         if frame is not None:
             writer.writeFrame(frame, streamName='frames')
-     
-    throw = dv.io.MonoCameraWriter("intermediary.aedat4", capture)
-    events = capture.getNextEventBatch()
-    if events is not None:
-            throw.writeEvents(events, streamName='events')
+
 
     print(f"Saved: {output_file}")
 
@@ -171,7 +176,7 @@ def display_and_record(base_path, output_dir, display_time):
 
                     print(f"Displaying: {image_path}")
                     display_image_centered(image_path, x_offset, y_offset, screen_w, screen_h, display_time)
-                    time.sleep(1)  # brief pause to ensure display is settled
+                    time.sleep(3)  # brief pause to ensure display is settled
 
                     print("Recording events...")
                     # Build mirrored output directory
