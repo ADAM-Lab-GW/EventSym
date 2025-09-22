@@ -1,22 +1,22 @@
-import os
 import shutil
 from pathlib import Path
 
-# Original root directory
-SRC_ROOT = Path("path/to/your/root")   # <-- change this
-# Destination root where "unrecorded" contents will be copied
-DST_ROOT = Path("path/to/destination")  # <-- change this
+# Root directory containing "Kate", "Phuoc", etc.
+SRC_ROOT = Path("C:/Users/zahin/Downloads/subset_symbols-20250922T140954Z-1-001/subset_symbols")
+DST_ROOT = Path("recordings/input_files")
 
-for path in SRC_ROOT.rglob("*"):
-    if path.is_dir() and path.name == "unrecorded":
-        # Parent folder (e.g., hazard_symbols/flammable)
-        parent = path.parent.relative_to(SRC_ROOT)
+# Loop through each person folder (Kate, Phuoc, ...)
+for person_folder in SRC_ROOT.iterdir():
+    if person_folder.is_dir():  # e.g., Kate, Phuoc
+        # Search inside this person's folder for "unrecorded"
+        for path in person_folder.rglob("unrecorded"):
+            # Relative path excluding the top-level (Kate/Phuoc)
+            parent = path.parent.relative_to(person_folder)
 
-        for file in path.glob("*"):
-            if file.is_file():
-                # Preserve structure under DST_ROOT
-                target_dir = DST_ROOT / parent
-                target_dir.mkdir(parents=True, exist_ok=True)
+            for file in path.glob("*"):
+                if file.is_file():
+                    target_dir = DST_ROOT / parent
+                    target_dir.mkdir(parents=True, exist_ok=True)
 
-                shutil.copy2(file, target_dir / file.name)
-                print(f"Copied {file} -> {target_dir/file.name}")
+                    shutil.copy2(file, target_dir / file.name)
+                    print(f"Copied {file} -> {target_dir / file.name}")
