@@ -11,3 +11,7 @@ C:\Program Files\GTK3-Runtime Win64\
 
 Add the bin folder to your system's PATH:
 C:\Program Files\GTK3-Runtime Win64\bin
+
+Restart your terminal or IDE and re-run your script.
+
+If added to path but restarting terminal does not help, restart PC
