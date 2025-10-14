@@ -42,7 +42,6 @@ def initialize_or_sync_record_file():
         data["remaining"] = list(dict.fromkeys(data["remaining"]))
         save_record_data(data)
 
-
 # Load the record data
 def load_record_data():
     with open(RECORD_FILE, "r") as f:
@@ -67,9 +66,9 @@ def log_verified(filename, response):
         with open(LOG_FILE, "w") as f:
             json.dump([log_entry], f, indent=4)
 
+
 @app.route("/")
 def index():
-    initialize_or_sync_record_file()
     record_data = load_record_data()
     if record_data["remaining"]:
         return redirect(url_for("view_local", filename=record_data["remaining"][0]))
@@ -83,7 +82,7 @@ def serve_gif(filename):
 
 @app.route("/view/local/<filename>")
 def view_local(filename):
-    initialize_or_sync_record_file()
+    initialize_or_sync_record_file()  # Ensure the record is synced when viewing a GIF
     if not filename.endswith(".gif"):
         abort(404)
     
@@ -202,4 +201,8 @@ PAGE = """
 """
 
 if __name__ == "__main__":
+    # Manually call the function to sync the record file before running the app
+    initialize_or_sync_record_file()
+    
+    # Now run the Flask app
     app.run(debug=True)
