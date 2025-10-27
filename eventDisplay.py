@@ -10,10 +10,6 @@ import dv_processing as dv
 
 from os.path import join
 
-from utils.event_readers import FixedSizeEventReader
-from utils.inference_utils import events_to_voxel_grid
-from utils.timers import Timer
-from run_reconstruction_from_events import save_events_to_file
 import imageio.v2 as imageio
 
 
