@@ -428,3 +428,7 @@ The same reconstruction process can be repeated for each scaled version of the d
 
 ---
 
+
+## 4. Removing the 86 Hz Component (Optional)
+
+Some recordings contain a weak 86 Hz modulation of the event rate (Appendix A.3 of the paper). It does not affect the reported results, and the released recordings are unmodified. `thinning/thin_86hz.py` removes it in the same way as in the paper, for a single file, a subclass, a category or the whole dataset, at any scale. See [thinning/README.md](thinning/README.md) for usage.

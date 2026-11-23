@@ -1,0 +1,481 @@
+hazard/Automated external defibrillator sign/1
+hazard/Automated external defibrillator sign/10
+hazard/Automated external defibrillator sign/12
+hazard/Automated external defibrillator sign/15
+hazard/Automated external defibrillator sign/17
+hazard/Automated external defibrillator sign/2
+hazard/Automated external defibrillator sign/20
+hazard/Automated external defibrillator sign/22
+hazard/Automated external defibrillator sign/25
+hazard/Automated external defibrillator sign/29
+hazard/Automated external defibrillator sign/3
+hazard/Automated external defibrillator sign/4
+hazard/Automated external defibrillator sign/5
+hazard/Automated external defibrillator sign/6
+hazard/Corrosive substance sign/1
+hazard/Corrosive substance sign/10
+hazard/Corrosive substance sign/11
+hazard/Corrosive substance sign/12
+hazard/Corrosive substance sign/15
+hazard/Corrosive substance sign/17
+hazard/Corrosive substance sign/2
+hazard/Corrosive substance sign/20
+hazard/Corrosive substance sign/22
+hazard/Corrosive substance sign/26
+hazard/Corrosive substance sign/3
+hazard/Corrosive substance sign/32
+hazard/Corrosive substance sign/4
+hazard/Corrosive substance sign/5
+hazard/Corrosive substance sign/6
+hazard/Corrosive substance sign/7
+hazard/Corrosive substance sign/8
+hazard/Corrosive substance sign/9
+hazard/Electricity sign/10
+hazard/Electricity sign/12
+hazard/Electricity sign/13
+hazard/Electricity sign/14
+hazard/Electricity sign/16
+hazard/Electricity sign/18
+hazard/Electricity sign/19
+hazard/Electricity sign/2
+hazard/Electricity sign/20
+hazard/Electricity sign/21
+hazard/Electricity sign/22
+hazard/Electricity sign/25
+hazard/Electricity sign/26
+hazard/Electricity sign/3
+hazard/Electricity sign/30
+hazard/Electricity sign/36
+hazard/Electricity sign/37
+hazard/Electricity sign/4
+hazard/Electricity sign/45
+hazard/Electricity sign/5
+hazard/Electricity sign/6
+hazard/Electricity sign/7
+hazard/Electricity sign/8
+hazard/Electricity sign/9
+hazard/Emergency shower head sign/14
+hazard/Emergency shower head sign/16
+hazard/Emergency shower head sign/19
+hazard/Emergency shower head sign/2
+hazard/Emergency shower head sign/24
+hazard/Emergency shower head sign/25
+hazard/Emergency shower head sign/28
+hazard/Emergency shower head sign/30
+hazard/Emergency shower head sign/32
+hazard/Emergency shower head sign/7
+hazard/Emergency shower head sign/8
+hazard/Fire extinguisher sign/1
+hazard/Fire extinguisher sign/10
+hazard/Fire extinguisher sign/12
+hazard/Fire extinguisher sign/14
+hazard/Fire extinguisher sign/17
+hazard/Fire extinguisher sign/2
+hazard/Fire extinguisher sign/22
+hazard/Fire extinguisher sign/24
+hazard/Fire extinguisher sign/3
+hazard/Fire extinguisher sign/4
+hazard/Fire extinguisher sign/5
+hazard/Fire extinguisher sign/6
+hazard/Fire extinguisher sign/7
+hazard/Fire extinguisher sign/8
+hazard/Fire extinguisher sign/9
+hazard/Flammable material sign/1
+hazard/Flammable material sign/10
+hazard/Flammable material sign/11
+hazard/Flammable material sign/13
+hazard/Flammable material sign/15
+hazard/Flammable material sign/18
+hazard/Flammable material sign/19
+hazard/Flammable material sign/2
+hazard/Flammable material sign/20
+hazard/Flammable material sign/22
+hazard/Flammable material sign/25
+hazard/Flammable material sign/3
+hazard/Flammable material sign/4
+hazard/Flammable material sign/47
+hazard/Flammable material sign/5
+hazard/Flammable material sign/6
+hazard/Flammable material sign/7
+hazard/Flammable material sign/8
+hazard/Flammable material sign/9
+hazard/Moving blades sign/10
+hazard/Moving blades sign/16
+hazard/Moving blades sign/19
+hazard/Moving blades sign/27
+hazard/Moving blades sign/32
+hazard/Moving blades sign/34
+hazard/Moving blades sign/35
+hazard/Moving blades sign/7
+hazard/Moving blades sign/8
+hazard/Moving blades sign/9
+hazard/Radioactive material or ionizing radiation sign/1
+hazard/Radioactive material or ionizing radiation sign/10
+hazard/Radioactive material or ionizing radiation sign/15
+hazard/Radioactive material or ionizing radiation sign/18
+hazard/Radioactive material or ionizing radiation sign/2
+hazard/Radioactive material or ionizing radiation sign/20
+hazard/Radioactive material or ionizing radiation sign/21
+hazard/Radioactive material or ionizing radiation sign/22
+hazard/Radioactive material or ionizing radiation sign/23
+hazard/Radioactive material or ionizing radiation sign/25
+hazard/Radioactive material or ionizing radiation sign/3
+hazard/Radioactive material or ionizing radiation sign/30
+hazard/Radioactive material or ionizing radiation sign/4
+hazard/Radioactive material or ionizing radiation sign/5
+hazard/Radioactive material or ionizing radiation sign/52
+hazard/Radioactive material or ionizing radiation sign/6
+hazard/Radioactive material or ionizing radiation sign/7
+hazard/Radioactive material or ionizing radiation sign/8
+hazard/Radioactive material or ionizing radiation sign/9
+hazard/Stretcher sign/1
+hazard/Stretcher sign/10
+hazard/Stretcher sign/12
+hazard/Stretcher sign/15
+hazard/Stretcher sign/18
+hazard/Stretcher sign/2
+hazard/Stretcher sign/21
+hazard/Stretcher sign/23
+hazard/Stretcher sign/3
+hazard/Stretcher sign/4
+hazard/Stretcher sign/5
+hazard/Stretcher sign/6
+hazard/Stretcher sign/7
+hazard/Stretcher sign/8
+hazard/Stretcher sign/9
+hazard/Toxic material sign/1
+hazard/Toxic material sign/10
+hazard/Toxic material sign/12
+hazard/Toxic material sign/14
+hazard/Toxic material sign/17
+hazard/Toxic material sign/2
+hazard/Toxic material sign/22
+hazard/Toxic material sign/24
+hazard/Toxic material sign/27
+hazard/Toxic material sign/28
+hazard/Toxic material sign/3
+hazard/Toxic material sign/4
+hazard/Toxic material sign/5
+hazard/Toxic material sign/51
+hazard/Toxic material sign/6
+hazard/Toxic material sign/7
+hazard/Toxic material sign/8
+hazard/Toxic material sign/9
+traffic/Bike lane sign/1
+traffic/Bike lane sign/10
+traffic/Bike lane sign/11
+traffic/Bike lane sign/13
+traffic/Bike lane sign/16
+traffic/Bike lane sign/18
+traffic/Bike lane sign/2
+traffic/Bike lane sign/20
+traffic/Bike lane sign/22
+traffic/Bike lane sign/24
+traffic/Bike lane sign/25
+traffic/Bike lane sign/3
+traffic/Bike lane sign/4
+traffic/Bike lane sign/5
+traffic/Bike lane sign/6
+traffic/Bike lane sign/7
+traffic/Bike lane sign/8
+traffic/Bike lane sign/9
+traffic/Do not enter sign/1
+traffic/Do not enter sign/13
+traffic/Do not enter sign/25
+traffic/Do not enter sign/5
+traffic/Do not enter sign/6
+traffic/Merge sign/1
+traffic/Merge sign/10
+traffic/Merge sign/12
+traffic/Merge sign/17
+traffic/Merge sign/2
+traffic/Merge sign/20
+traffic/Merge sign/22
+traffic/Merge sign/27
+traffic/Merge sign/3
+traffic/Merge sign/33
+traffic/Merge sign/4
+traffic/Merge sign/5
+traffic/Merge sign/51
+traffic/Merge sign/6
+traffic/Merge sign/7
+traffic/Merge sign/8
+traffic/No U-turn sign/1
+traffic/No U-turn sign/10
+traffic/No U-turn sign/11
+traffic/No U-turn sign/16
+traffic/No U-turn sign/2
+traffic/No U-turn sign/21
+traffic/No U-turn sign/22
+traffic/No U-turn sign/24
+traffic/No U-turn sign/3
+traffic/No U-turn sign/4
+traffic/No U-turn sign/5
+traffic/No U-turn sign/52
+traffic/No U-turn sign/6
+traffic/No U-turn sign/7
+traffic/No U-turn sign/8
+traffic/No U-turn sign/9
+traffic/One way sign/12
+traffic/One way sign/18
+traffic/One way sign/20
+traffic/One way sign/21
+traffic/One way sign/24
+traffic/One way sign/25
+traffic/One way sign/30
+traffic/One way sign/40
+traffic/One way sign/43
+traffic/One way sign/5
+traffic/Pedestrian sign/1
+traffic/Pedestrian sign/10
+traffic/Pedestrian sign/14
+traffic/Pedestrian sign/16
+traffic/Pedestrian sign/19
+traffic/Pedestrian sign/2
+traffic/Pedestrian sign/24
+traffic/Pedestrian sign/3
+traffic/Pedestrian sign/35
+traffic/Pedestrian sign/4
+traffic/Pedestrian sign/5
+traffic/Pedestrian sign/6
+traffic/Pedestrian sign/7
+traffic/Pedestrian sign/8
+traffic/Pedestrian sign/9
+traffic/Sharp turn right sign/1
+traffic/Sharp turn right sign/10
+traffic/Sharp turn right sign/11
+traffic/Sharp turn right sign/13
+traffic/Sharp turn right sign/18
+traffic/Sharp turn right sign/2
+traffic/Sharp turn right sign/23
+traffic/Sharp turn right sign/25
+traffic/Sharp turn right sign/3
+traffic/Sharp turn right sign/4
+traffic/Sharp turn right sign/5
+traffic/Sharp turn right sign/6
+traffic/Sharp turn right sign/7
+traffic/Sharp turn right sign/8
+traffic/Sharp turn right sign/9
+traffic/Speed limit sign/1
+traffic/Speed limit sign/13
+traffic/Speed limit sign/15
+traffic/Speed limit sign/17
+traffic/Speed limit sign/18
+traffic/Speed limit sign/19
+traffic/Speed limit sign/2
+traffic/Speed limit sign/20
+traffic/Speed limit sign/23
+traffic/Speed limit sign/25
+traffic/Speed limit sign/27
+traffic/Speed limit sign/3
+traffic/Speed limit sign/33
+traffic/Speed limit sign/4
+traffic/Speed limit sign/40
+traffic/Speed limit sign/5
+traffic/Speed limit sign/51
+traffic/Speed limit sign/6
+traffic/Speed limit sign/7
+traffic/Speed limit sign/8
+traffic/Speed limit sign/9
+traffic/Stop sign/1
+traffic/Stop sign/10
+traffic/Stop sign/11
+traffic/Stop sign/13
+traffic/Stop sign/16
+traffic/Stop sign/18
+traffic/Stop sign/2
+traffic/Stop sign/21
+traffic/Stop sign/23
+traffic/Stop sign/29
+traffic/Stop sign/3
+traffic/Stop sign/4
+traffic/Stop sign/5
+traffic/Stop sign/6
+traffic/Stop sign/7
+traffic/Stop sign/8
+traffic/Stop sign/9
+traffic/Yield sign/1
+traffic/Yield sign/10
+traffic/Yield sign/14
+traffic/Yield sign/16
+traffic/Yield sign/19
+traffic/Yield sign/2
+traffic/Yield sign/34
+traffic/Yield sign/37
+traffic/Yield sign/4
+traffic/Yield sign/5
+traffic/Yield sign/51
+traffic/Yield sign/6
+traffic/Yield sign/7
+traffic/Yield sign/8
+traffic/Yield sign/9
+universal/Accessible toilet or full accessibility sign/12
+universal/Accessible toilet or full accessibility sign/16
+universal/Accessible toilet or full accessibility sign/21
+universal/Accessible toilet or full accessibility sign/47
+universal/Accessible toilet or full accessibility sign/5
+universal/Accessible toilet or full accessibility sign/50
+universal/Accommodation or hotel sign/12
+universal/Accommodation or hotel sign/14
+universal/Accommodation or hotel sign/18
+universal/Accommodation or hotel sign/2
+universal/Accommodation or hotel sign/32
+universal/Accommodation or hotel sign/34
+universal/Airport or aircraft sign/14
+universal/Airport or aircraft sign/18
+universal/Airport or aircraft sign/4
+universal/Doctor or healthcare sign/20
+universal/Elevator or lift sign/47
+universal/Escalator sign/11
+universal/Escalator sign/39
+universal/Escalator sign/41
+universal/Escalator sign/44
+universal/Escalator sign/48
+universal/Escalator sign/7
+universal/Food or Restaurant sign/13
+universal/Food or Restaurant sign/16
+universal/Food or Restaurant sign/17
+universal/Food or Restaurant sign/2
+universal/Food or Restaurant sign/20
+universal/Food or Restaurant sign/3
+universal/Food or Restaurant sign/34
+universal/Food or Restaurant sign/4
+universal/Food or Restaurant sign/49
+universal/Gas Filling station sign/15
+universal/Gas Filling station sign/17
+universal/Gas Filling station sign/40
+universal/Gas Filling station sign/48
+universal/Pick up after your dog sign/18
+universal/Pick up after your dog sign/2
+universal/Pick up after your dog sign/3
+universal/Pick up after your dog sign/40
+universal/Pick up after your dog sign/43
+universal/Pick up after your dog sign/47
+universal/Pick up after your dog sign/5
+universal/Pick up after your dog sign/50
+universal/Pick up after your dog sign/51
+universal/Wifi sign/15
+universal/Wifi sign/6
+wayfinding/Bus sign/1
+wayfinding/Bus sign/10
+wayfinding/Bus sign/13
+wayfinding/Bus sign/16
+wayfinding/Bus sign/18
+wayfinding/Bus sign/19
+wayfinding/Bus sign/2
+wayfinding/Bus sign/21
+wayfinding/Bus sign/3
+wayfinding/Bus sign/39
+wayfinding/Bus sign/4
+wayfinding/Bus sign/47
+wayfinding/Bus sign/5
+wayfinding/Bus sign/51
+wayfinding/Bus sign/6
+wayfinding/Bus sign/8
+wayfinding/Bus sign/9
+wayfinding/Emergency exit sign/1
+wayfinding/Emergency exit sign/10
+wayfinding/Emergency exit sign/2
+wayfinding/Emergency exit sign/3
+wayfinding/Emergency exit sign/4
+wayfinding/Emergency exit sign/5
+wayfinding/Emergency exit sign/6
+wayfinding/Emergency exit sign/7
+wayfinding/Emergency exit sign/8
+wayfinding/Emergency exit sign/9
+wayfinding/Information sign/1
+wayfinding/Information sign/10
+wayfinding/Information sign/11
+wayfinding/Information sign/15
+wayfinding/Information sign/16
+wayfinding/Information sign/18
+wayfinding/Information sign/2
+wayfinding/Information sign/20
+wayfinding/Information sign/3
+wayfinding/Information sign/30
+wayfinding/Information sign/38
+wayfinding/Information sign/4
+wayfinding/Information sign/43
+wayfinding/Information sign/44
+wayfinding/Information sign/5
+wayfinding/Information sign/6
+wayfinding/Information sign/7
+wayfinding/Information sign/8
+wayfinding/Information sign/9
+wayfinding/Parking sign/1
+wayfinding/Parking sign/10
+wayfinding/Parking sign/12
+wayfinding/Parking sign/13
+wayfinding/Parking sign/2
+wayfinding/Parking sign/3
+wayfinding/Parking sign/4
+wayfinding/Parking sign/43
+wayfinding/Parking sign/44
+wayfinding/Parking sign/45
+wayfinding/Parking sign/46
+wayfinding/Parking sign/51
+wayfinding/Parking sign/6
+wayfinding/Parking sign/7
+wayfinding/Parking sign/8
+wayfinding/Parking sign/9
+wayfinding/Restrooms or Toilets sign/1
+wayfinding/Restrooms or Toilets sign/10
+wayfinding/Restrooms or Toilets sign/11
+wayfinding/Restrooms or Toilets sign/15
+wayfinding/Restrooms or Toilets sign/16
+wayfinding/Restrooms or Toilets sign/17
+wayfinding/Restrooms or Toilets sign/2
+wayfinding/Restrooms or Toilets sign/3
+wayfinding/Restrooms or Toilets sign/39
+wayfinding/Restrooms or Toilets sign/4
+wayfinding/Restrooms or Toilets sign/40
+wayfinding/Restrooms or Toilets sign/45
+wayfinding/Restrooms or Toilets sign/49
+wayfinding/Restrooms or Toilets sign/5
+wayfinding/Restrooms or Toilets sign/50
+wayfinding/Restrooms or Toilets sign/6
+wayfinding/Restrooms or Toilets sign/7
+wayfinding/Restrooms or Toilets sign/8
+wayfinding/Stairs sign/1
+wayfinding/Stairs sign/12
+wayfinding/Stairs sign/7
+wayfinding/Stairs sign/9
+wayfinding/Taxi sign/1
+wayfinding/Taxi sign/10
+wayfinding/Taxi sign/13
+wayfinding/Taxi sign/14
+wayfinding/Taxi sign/16
+wayfinding/Taxi sign/2
+wayfinding/Taxi sign/3
+wayfinding/Taxi sign/4
+wayfinding/Taxi sign/44
+wayfinding/Taxi sign/48
+wayfinding/Taxi sign/5
+wayfinding/Taxi sign/6
+wayfinding/Taxi sign/7
+wayfinding/Taxi sign/8
+wayfinding/Taxi sign/9
+wayfinding/Telephone sign/1
+wayfinding/Telephone sign/10
+wayfinding/Telephone sign/14
+wayfinding/Telephone sign/17
+wayfinding/Telephone sign/19
+wayfinding/Telephone sign/2
+wayfinding/Telephone sign/3
+wayfinding/Telephone sign/4
+wayfinding/Telephone sign/40
+wayfinding/Telephone sign/45
+wayfinding/Telephone sign/5
+wayfinding/Telephone sign/50
+wayfinding/Telephone sign/6
+wayfinding/Telephone sign/8
+wayfinding/Telephone sign/9
+wayfinding/Trash or recycle sign/10
+wayfinding/Trash or recycle sign/15
+wayfinding/Trash or recycle sign/17
+wayfinding/Trash or recycle sign/31
+wayfinding/Trash or recycle sign/42
+wayfinding/Trash or recycle sign/49
+wayfinding/Trash or recycle sign/6
+wayfinding/Trash or recycle sign/8
+wayfinding/Trash or recycle sign/9
